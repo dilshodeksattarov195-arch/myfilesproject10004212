@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachepender",
+        "uuid": 7707960,
+        "checksum": "k76omv"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
